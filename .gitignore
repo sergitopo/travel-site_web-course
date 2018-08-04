@@ -1,1 +1,5 @@
 /node_modules/*
+web-design-course.sublime-project
+web-design-course.sublime-workspace
+package-lock.json
+.DS_Store
